@@ -102,7 +102,7 @@ extension Resources.V1 {
             case buildBetaDetail
             case buildBundles
             case computedMinMacOsVersion
-            case diagnosticSignatures
+//            case diagnosticSignatures
             case expirationDate
             case expired
             case iconAssetToken
@@ -110,7 +110,7 @@ extension Resources.V1 {
             case individualTesters
             case lsMinimumSystemVersion
             case minOsVersion
-            case perfPowerMetrics
+//            case perfPowerMetrics
             case preReleaseVersion
             case processingState
             case uploadedDate
@@ -252,7 +252,7 @@ extension Resources.V1 {
             case inAppPurchasesV2
             case isOrEverWasMadeForKids
             case name
-            case perfPowerMetrics
+//            case perfPowerMetrics
             case preOrder
             case preReleaseVersions
             case pricePoints
